@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "CH4NGE（cover）",
+  "base_artist": "Gero",
+  "createdAt": "2026-02-25T14:12:30.895197Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CH4NGE(cover)",
+      "artist": "Gero",
+      "has_synced": false,
+      "path": "select/pl_01_CH4NGE(cover)_Gero.txt"
+    }
+  ]
+}
